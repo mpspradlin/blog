@@ -1,0 +1,12 @@
+.root {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.intro {
+  margin-bottom: 48px;
+}
+
+.introText {
+  line-height: 22px;
+}

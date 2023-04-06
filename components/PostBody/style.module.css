@@ -1,0 +1,39 @@
+.markdown h1 {
+  font-size: 48px;
+  margin-bottom: 24px;
+}
+
+.markdown h2 {
+  font-size: 36px;
+  margin-bottom: 16px;
+}
+
+.markdown h3 {
+  font-size: 28px;
+  margin-bottom: 16px;
+}
+
+.markdown h4 {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.markdown h5 {
+  font-size: 20px;
+  margin-bottom: 16px;
+}
+
+.markdown h6 {
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+
+.markdown p {
+  font-size: 16px;
+  margin-bottom: 16px;
+  line-height: 22px;
+}
+
+.markdown em {
+  font-style: italic;
+}

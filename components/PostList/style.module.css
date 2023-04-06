@@ -1,0 +1,16 @@
+.list {
+  display: grid;
+  gap: 24px;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--color-primary);
+  transition: color .25s;
+  display: flex;
+  justify-content: space-between;
+}
+
+.link:hover {
+  color: rgb(112, 112, 112);
+}
